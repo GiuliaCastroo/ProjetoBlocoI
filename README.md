@@ -5,11 +5,11 @@ O sistema é chamado de "Cinema Generation" onde após inserir seu nome e sua id
 
 Realizado pelo grupo:
 
-Juliana Silva
-Leonardo Maiorano
-Maria Giulia Castro
-Beatriz Carvalho
-Gabriel Marques
-Guilherme Tadeu
-Marcos Vieira
-Mike Sandes
+- Juliana Silva
+- Leonardo Maiorano
+- Maria Giulia Castro
+- Beatriz Carvalho
+- Gabriel Marques
+- Guilherme Tadeu
+- Marcos Vieira
+- Mike Sandes
